@@ -10,3 +10,12 @@ int main(){
         printf("factorial=%d",fact);
     return 0;
 } 
+
+//alogorithm
+//1.START
+//2.Take the integer variable a.
+//3.Assign value to the variable. 
+//4.From value A up to 1 multiply each digit and store.
+//5.The final stored value is factorial of a.
+//6.STOP.
+
